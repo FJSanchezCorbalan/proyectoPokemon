@@ -32,7 +32,7 @@ Al iniciar el juego, serás llevado al menú principal donde podrás comenzar un
 ## Autores
 
 - **[Nicolás Amilivia](https://github.com/NicoAmilivia)**
-- **[Fernando Corbalan](https://github.com/FernandoCorbalan)**
+- **[Fernando Corbalan](https://github.com/FJSanchezCorbalan)**
 
 ---
 
